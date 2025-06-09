@@ -1,0 +1,13 @@
+[10:10:28] [INFO] Starting master. Broadcasting to ['192.168.1.100'] on port 5050
+[10:10:28] [INFO] Listener ready. Press ESC to stop.
+[10:13:21] [INFO] Starting master. Broadcasting to ['192.168.1.100'] on port 5050
+[10:13:21] [INFO] Listener ready. Press ESC to stop.
+[10:21:11] [INFO] Starting master. Broadcasting to ['192.168.1.100'] on port 5050
+[10:21:11] [INFO] Listener ready. Press Ctrl+F12 to stop.
+[10:21:27] [INFO] Ctrl + F12 pressed. Exiting master.
+[10:23:35] [INFO] Starting master. Broadcasting to ['192.168.1.150'] on port 5050
+[10:23:35] [INFO] Listener ready. Press Ctrl+F12 to stop.
+[10:23:46] [INFO] Ctrl + F12 pressed. Exiting master.
+[10:24:33] [INFO] Starting master. Broadcasting to ['192.168.1.150'] on port 5050
+[10:24:33] [INFO] Listener ready. Press Ctrl+F12 to stop.
+[10:42:44] [INFO] Ctrl + F12 pressed. Exiting master.
