@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="saranglebah",
-    version="0.1.2",
+    version="0.1.3",
     description="Broadcast keystrokes from a master PC to multiple slaves over Wi‑Fi",
     author="",
     packages=find_packages(),
